@@ -1,0 +1,89 @@
+1) What classification scheme does Awad use, and why do these types matter 
+for scientific research?
+--------------
+Awad classifies AI according to functional paradigms within the 
+scientific process, rather than by technical architecture alone. 
+The main categories (Section 1) include:
+    Predictive AI: forecasting and modelling outcomes
+    Descriptive AI: pattern discovery and knowledge mapping
+    Generative AI: synthesizing new data, hypotheses, or simulations
+    Optimization AI: automating and improving experimental design
+    Causal & Explainable AI: uncovering cause–effect relationships 
+    and ensuring interpretability
+    Privacy-aware AI: enabling secure collaboration with sensitive data
+    Meta-scientific AI: automating parts of the scientific 
+    discovery process itself
+This scheme matters because it aligns AI types with distinct stages of the 
+scientific method.
+In the early stage of observing patterns, descriptive AI helps researchers 
+uncover structures, themes, and relationships within large datasets. When 
+it comes to modelling and predicting, predictive AI enables forecasting and 
+simulation based on learned patterns. For hypothesis generation, generative 
+AI can synthesize new ideas, data, or theoretical possibilities. 
+In experiment design, optimization AI improves and automates 
+decision-making to identify the most effective experimental strategies. 
+For explanation and validation, causal and explainable AI methods help 
+clarify cause–effect relationships and make complex models interpretable. 
+In terms of ethical data use, privacy-aware AI ensures sensitive information 
+is protected while still enabling collaboration. Finally, at the most 
+advanced level, meta-scientific AI supports or partially automates the 
+entire research pipeline, contributing to hypothesis formation, experiment 
+planning, and knowledge integration across disciplines.
+Awad emphasizes that AI is not monolithic, but a constellation of paradigms 
+that reshape how knowledge is produced. This functional classification 
+highlights how AI moves beyond data processing into shaping scientific 
+reasoning itself.
+
+=============================================================================
+
+2) Does Awad make a clear distinction between AI as a tool and AI as a s
+cientific collaborator? If so, what are the differences and what are some 
+examples given to support the differences? Do these examples suggest 
+a real shift in how science is conducted, or mostly an extension of existing 
+methods? 
+-----------
+Awad does draw a meaningful distinction between AI as a computational tool 
+and AI as a scientific collaborator. As a tool, AI assists with defined 
+tasks (analyzing medical images, predicting protein structures, or 
+modelling climate systems) within human-framed research questions. 
+As a collaborator, however, AI systems (especially meta-scientific 
+and agentic models) begin to generate hypotheses, design experiments, 
+and connect knowledge across domains with partial autonomy. 
+Examples like AI co-scientists or autonomous lab systems suggest that AI 
+is not only executing instructions but influencing the direction of inquiry. 
+These examples feel less like an extension of traditional methods and more 
+like an early shift toward a hybrid human-machine research model.
+
+======================================================================
+
+3) What are some limitations or risks of using AI in science? How do these 
+relate to issues such as interpretability, bias, reproducibility, 
+or theory formation? 
+----------------------
+Awad highlights that AI’s power also introduces significant risks. Many 
+advanced models operate as “black boxes,” making interpretability and 
+scientific validation difficult. Bias embedded in training data can subtly 
+shape research outcomes, particularly in socially sensitive fields. 
+Reproducibility becomes fragile when models are proprietary or continuously 
+updated. Perhaps most importantly, AI’s emphasis on statistical pattern 
+recognition may prioritize correlation over causal explanation. If science 
+increasingly relies on machine-generated hypotheses without clear theoretical 
+grounding, the balance between data-driven insight and conceptual understanding 
+could shift in ways that challenge traditional norms of explanation and 
+accountability.
+
+===============================================================================
+
+4) According to Awad’s arguments, is AI more likely to accelerate scientific 
+discovery or to reshape the scientific method itself? Do you agree or disagree?
+-------------
+Awad suggests that AI is not merely accelerating science but potentially 
+reshaping the scientific method itself. In the short term, AI clearly speeds up 
+discovery like processing more data, testing more variables, and automating 
+experimentation. However, as AI begins to generate hypotheses, reason 
+abductively, and design experiments, it starts to influence the epistemic 
+foundations of science. I agree that while acceleration is the most visible 
+effect today, the deeper long-term impact will likely be structural. AI may 
+not replace human reasoning, but it is changing how evidence is generated, 
+how explanations are formed, and how scientific authority is distributed 
+between humans and machines.
